@@ -1,0 +1,19 @@
+{
+  "name": "fp-slack-slash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-persist": "^2.0.7",
+    "phantomjs-prebuilt": "^2.1.14",
+    "request": "^2.79.0",
+    "webdriverio": "^4.5.2"
+  }
+}
